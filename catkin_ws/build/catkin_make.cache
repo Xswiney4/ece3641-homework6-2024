@@ -1,0 +1,2 @@
+xander
+-DCATKIN_DEVEL_PREFIX=/home/xswiney/ece3641-homework6-2024/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xswiney/ece3641-homework6-2024/catkin_ws/install -G Unix Makefiles
